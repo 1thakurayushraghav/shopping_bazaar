@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-2xl font-display font-bold">
               <span className="text-white">Mahasay</span>
-              <span className="text-gold-500"> Garments</span>
+              <span className="text-gold-500"> Complex</span>
             </h3>
             <p className="text-gray-400 text-sm leading-relaxed">
               Your trusted destination for premium fashion in Aligarh. We bring you the finest collection of men's, women's, and kids' clothing.
@@ -113,8 +113,8 @@ const Footer = () => {
               </li>
               <li className="flex items-start space-x-3">
                 <FaEnvelope className="text-gold-500 mt-1 flex-shrink-0" />
-                <a href="mailto:info@fivestargarments.com" className="text-gray-400 hover:text-gold-400 transition-colors duration-300 text-sm">
-                  info@mahasaygarments.com
+                <a href="mailto:info@mahasaycomplex.com" className="text-gray-400 hover:text-gold-400 transition-colors duration-300 text-sm">
+                  info@mahasaycomplex.com
                 </a>
               </li>
             </ul>
@@ -127,7 +127,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm text-center md:text-left">
-              © {new Date().getFullYear()} Mahasay Garments. All rights reserved.
+              © {new Date().getFullYear()} Mahasay Complex. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-gold-400 transition-colors duration-300 text-sm">

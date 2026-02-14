@@ -32,8 +32,8 @@ const Contact = () => {
     {
       icon: <FaMapMarkerAlt />,
       title: "Address",
-      content: "Sahaswan, Budaun District",
-      subContent: "Uttar Pradesh, India - 202412"
+      content: "Aligarh, Budaun District",
+      subContent: "Uttar Pradesh, India - 202021"
     },
     {
       icon: <FaPhone />,
@@ -44,8 +44,8 @@ const Contact = () => {
     {
       icon: <FaEnvelope />,
       title: "Email",
-      content: "info@fivestarcomplex.com",
-      link: "mailto:info@fivestarcomplex.com"
+      content: "info@mahasaycomplex.com",
+      link: "mailto:info@mahasaycomplex.com"
     },
     {
       icon: <FaClock />,
@@ -184,14 +184,14 @@ const Contact = () => {
             <div className="bg-white rounded-2xl overflow-hidden shadow-xl">
               <div className="h-full min-h-[500px]">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3497.9282366812234!2d78.7513924!3d28.7403825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390afab1c77e9f19%3A0x1ffa8e6e85729c16!2sSahaswan%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1234567890"
+                  src="https://www.google.com/maps?q=Mahasay%20Garments%20Aligarh&output=embed"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
-                  allowFullScreen=""
+                  allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Five Star Garments Location"
+                  title="Mahasay Garments Aligarh Location"
                   className="w-full h-full"
                 ></iframe>
               </div>
