@@ -34,12 +34,19 @@ const Navbar = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center">
           {/* Logo */}
-          <Link to="/logo.png" className="flex items-center space-x-2 group">
-            <div className="text-2xl sm:text-3xl font-display font-bold">
-              <span className="text-white group-hover:text-gold-400 transition-colors duration-300">Five Star</span>
-              <span className="text-blue-500"> Garments</span>
-            </div>
-          </Link>
+          {/* Logo */}
+<Link to="/" className="flex items-center space-x-2 group">
+<div className="text-2xl sm:text-3xl font-display font-bold">
+    <span className="text-white group-hover:text-gold-400 transition-colors duration-300">Five Star</span>
+    
+  </div>
+  <img
+    src="/logo.png"
+    alt="Five Star Garments Logo"
+    className="h-10 w-auto sm:h-12"
+  />
+ 
+</Link>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">

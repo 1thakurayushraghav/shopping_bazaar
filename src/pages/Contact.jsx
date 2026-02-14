@@ -44,8 +44,8 @@ const Contact = () => {
     {
       icon: <FaEnvelope />,
       title: "Email",
-      content: "info@fivestargarments.com",
-      link: "mailto:info@fivestargarments.com"
+      content: "info@fivestarcomplex.com",
+      link: "mailto:info@fivestarcomplex.com"
     },
     {
       icon: <FaClock />,

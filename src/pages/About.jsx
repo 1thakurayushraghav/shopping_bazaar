@@ -38,7 +38,7 @@ const About = () => {
         </div>
         <div className="relative container mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 animate-fadeInUp">
-            About <span className="text-gold-400">Five Star Garments</span>
+            About <span className="text-gold-400">Five Star Complex</span>
           </h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto animate-fadeInUp animation-delay-200">
             Your trusted destination for premium fashion in Sahaswan, Uttar Pradesh
