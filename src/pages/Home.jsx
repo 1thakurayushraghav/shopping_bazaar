@@ -56,7 +56,7 @@ const Home = () => {
 
         <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 animate-fadeInUp">
-            Five Star <span className="text-gold-400">Complex</span>
+            Mahasay <span className="text-gold-400">Complex</span>
           </h1>
           <p className="text-xl sm:text-2xl text-gray-200 mb-8 max-w-2xl mx-auto animate-fadeInUp animation-delay-200">
             Premium Fashion for Every Occasion
@@ -92,10 +92,10 @@ const Home = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-6">
               <h2 className="font-display text-4xl sm:text-5xl font-bold text-gray-900">
-                Welcome to <span className="text-gold-600">Five Star Complex</span>
+                Welcome to <span className="text-gold-600">Mahasay Complex</span>
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Located in the heart of Sahaswan, Uttar Pradesh, Five Star Garments has been your trusted destination for premium fashion since our inception. We bring you carefully curated collections that blend timeless elegance with contemporary style.
+                Located in the heart of Aligarh, Uttar Pradesh, Mahasay Garments has been your trusted destination for premium fashion since our inception. We bring you carefully curated collections that blend timeless elegance with contemporary style.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
                 From sophisticated men's wear to stunning women's fashion and adorable kids' collections, we cater to every member of your family with the same dedication to quality and style.

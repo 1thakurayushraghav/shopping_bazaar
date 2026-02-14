@@ -38,10 +38,10 @@ const About = () => {
         </div>
         <div className="relative container mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 animate-fadeInUp">
-            About <span className="text-gold-400">Five Star Complex</span>
+            About <span className="text-gold-400">Mahasay Complex</span>
           </h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto animate-fadeInUp animation-delay-200">
-            Your trusted destination for premium fashion in Sahaswan, Uttar Pradesh
+            Your trusted destination for premium fashion in Aligarh, Uttar Pradesh
           </p>
         </div>
       </section>
@@ -55,13 +55,13 @@ const About = () => {
                 Our Story
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Five Star Garments was born from a passion for fashion and a commitment to bringing premium quality clothing to the people of Sahaswan. What started as a small boutique has grown into a beloved fashion destination, serving families across the region.
+                Mahasay Garments was born from a passion for fashion and a commitment to bringing premium quality clothing to the people of Aligarh. What started as a small boutique has grown into a beloved fashion destination, serving families across the region.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
                 Over the years, we've built our reputation on three pillars: exceptional quality, personalized service, and affordable luxury. Each piece in our collection is carefully selected to ensure it meets our high standards and complements the diverse tastes of our customers.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Today, Five Star Garments continues to evolve with the latest fashion trends while staying true to our core values of quality, authenticity, and customer satisfaction.
+                Today, Mahasay Garments continues to evolve with the latest fashion trends while staying true to our core values of quality, authenticity, and customer satisfaction.
               </p>
             </div>
             <div className="relative">
@@ -108,7 +108,7 @@ const About = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="font-display text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-              Why Choose Five Star Garments
+              Why Choose Mahasay Garments
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               Experience the difference that true dedication to quality and service makes

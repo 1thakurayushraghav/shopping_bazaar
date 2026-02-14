@@ -9,11 +9,11 @@ const Footer = () => {
           {/* About Section */}
           <div className="space-y-4">
             <h3 className="text-2xl font-display font-bold">
-              <span className="text-white">Five Star</span>
-              <span className="text-gold-500"> Complex</span>
+              <span className="text-white">Mahasay</span>
+              <span className="text-gold-500"> Garments</span>
             </h3>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Your trusted destination for premium fashion in Sahaswan. We bring you the finest collection of men's, women's, and kids' clothing.
+              Your trusted destination for premium fashion in Aligarh. We bring you the finest collection of men's, women's, and kids' clothing.
             </p>
             <div className="flex space-x-4 pt-2">
               <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" 
@@ -102,7 +102,7 @@ const Footer = () => {
               <li className="flex items-start space-x-3">
                 <FaMapMarkerAlt className="text-gold-500 mt-1 flex-shrink-0" />
                 <span className="text-gray-400 text-sm">
-                  Sahaswan, Uttar Pradesh, India
+                  Aligarh, Uttar Pradesh, India
                 </span>
               </li>
               <li className="flex items-start space-x-3">
@@ -114,7 +114,7 @@ const Footer = () => {
               <li className="flex items-start space-x-3">
                 <FaEnvelope className="text-gold-500 mt-1 flex-shrink-0" />
                 <a href="mailto:info@fivestargarments.com" className="text-gray-400 hover:text-gold-400 transition-colors duration-300 text-sm">
-                  info@fivestarcomplex.com
+                  info@mahasaygarments.com
                 </a>
               </li>
             </ul>
@@ -127,7 +127,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm text-center md:text-left">
-              © {new Date().getFullYear()} Five Star Complex. All rights reserved.
+              © {new Date().getFullYear()} Mahasay Garments. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-gold-400 transition-colors duration-300 text-sm">
