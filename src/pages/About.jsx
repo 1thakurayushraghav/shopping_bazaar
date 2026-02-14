@@ -96,7 +96,7 @@ const About = () => {
               </div>
               <h3 className="font-display text-3xl font-bold mb-4">Our Vision</h3>
               <p className="text-lg text-gray-300 leading-relaxed">
-                To become the most trusted and preferred fashion destination in Uttar Pradesh, known for our exceptional quality, diverse collections, and unwavering commitment to customer satisfaction. We envision a future where Five Star Garments is synonymous with style and excellence.
+                To become the most trusted and preferred fashion destination in Uttar Pradesh, known for our exceptional quality, diverse collections, and unwavering commitment to customer satisfaction. We envision a future where Mahasay Garments is synonymous with style and excellence.
               </p>
             </div>
           </div>
@@ -141,7 +141,7 @@ const About = () => {
               Visit Our Store
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Step into a world of premium fashion at our Sahaswan location
+              Step into a world of premium fashion at our Aligarh location
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
