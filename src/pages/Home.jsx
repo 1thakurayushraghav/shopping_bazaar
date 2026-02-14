@@ -53,7 +53,7 @@ const Home = () => {
           />
           <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/60 to-black/40"></div>
         </div>
-        
+
         <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 animate-fadeInUp">
             Five Star <span className="text-gold-400">Complex</span>
@@ -140,9 +140,11 @@ const Home = () => {
                 key={index}
                 className="bg-white rounded-xl p-8 text-center shadow-md hover:shadow-xl transition-shadow duration-300 group"
               >
-                <div className="w-16 h-16 bg-gold-500 rounded-full flex items-center justify-center mx-auto mb-6 text-white text-2xl group-hover:scale-110 group-hover:rotate-12 transition-all duration-300">
+                <div className="w-20 h-20 bg-[#F9DC5C] rounded-full flex items-center justify-center mx-auto mb-6 text-white text-4xl group-hover:scale-110 group-hover:rotate-12 transition-all duration-300">
                   {feature.icon}
                 </div>
+
+
                 <h3 className="font-display text-xl font-semibold text-gray-900 mb-3">
                   {feature.title}
                 </h3>
